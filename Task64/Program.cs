@@ -31,6 +31,5 @@ string OutputNumbers(int n)
     }
 }
 
-//int m = GetNumber("Введите число M ");
 int n = GetNumber("Введите число N ");
 Console.WriteLine($"N = {n} -> {OutputNumbers(n)}");
